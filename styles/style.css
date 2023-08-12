@@ -7,8 +7,10 @@ body{
 }
 main{
     flex: 1 0 auto;
+
     
 }
+
 
 .text-wraping{
     color: orange;
@@ -96,3 +98,6 @@ margin-left: 500px;
     border: 1px solid white;
 }
 
+html{
+    scroll-padding-top: 75px;
+}
